@@ -1,4 +1,4 @@
-# WordPress plugin: <head> cleanup
+# WordPress plugin: head cleanup
 
 This plugin removes a lot of the default markup which isn’t needed for most
 professional blogs from the head section of a site. I wrote it as a quick and
